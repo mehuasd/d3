@@ -21,11 +21,9 @@ body {
 
 }
 
-<<<<<<< HEAD
 @media (max-width:1024px) {
     
-
-=======
+}
 @media (max-width:1000px) {
 
 }
@@ -43,5 +41,4 @@ body {
 }
 .bg-image{
     background-image: url('');
->>>>>>> b83461a684ee9a0780e3748fec8fa280fa686588
 }
